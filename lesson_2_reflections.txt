@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a new git repositories where I will be able to control versions. Nevertheless it does not have one commit yet. I could find out with the command git log and git status. First I wanted to use git diff but this is only used to track changes between different commits. When running git status, it shows clearly that there was no commit when running the command git init.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is in a meta layer, so that it is not yet in the repository but further than the working directory. This means, that we can check what we want to commit before we commit it to the repository finally.
