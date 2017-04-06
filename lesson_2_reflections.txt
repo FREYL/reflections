@@ -9,3 +9,6 @@ It is in a meta layer, so that it is not yet in the repository but further than 
 How can you use the staging area to make sure you have one commit per logical change?
 
 The staging area allows to see what files or directories have been changed and will be committed. If there are too many, one can still remove some files. If there are too little one can still add files.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If you are creating a new version, experimenting, languages.
