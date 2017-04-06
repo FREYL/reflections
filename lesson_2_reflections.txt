@@ -15,3 +15,9 @@ If you are creating a new version, experimenting, languages.
 
 How do the diagrams help you visualize the branch structure?
 You always know what branch you are on. Also you recognize dead ends and understand what detached head means.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The current branch updated with the commits of the branch that will be merged. In the diagram we have the overview of what branch we are currently on and what branches are being merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic is faster and less error prone. Manual is sometimes necessary because not all conflicts can be resolved by git.
