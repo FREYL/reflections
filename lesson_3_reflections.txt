@@ -10,3 +10,6 @@ fork copies a repository on github to my account. Clone copies a repository eith
 Fork: If you want to copy somebody's repository to your own account on git hub quickly with letting him get credit for it
 Clone: If I want to have a repository quickly locally and we want to work on the same repository
 Branch: If I want to test something without changing the original masters version.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Because then you prevent merging conflicts
