@@ -13,3 +13,6 @@ Branch: If I want to test something without changing the original masters versio
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Because then you prevent merging conflicts
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Probably with a dropbox file. It would be easier because all the complicated commands would not need to be learned. It would be more complicated because it creates conflicts that are not easily solvable as in git and git hub.
